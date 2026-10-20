@@ -157,6 +157,6 @@ This practical exercise helped me distinguish a transaction that completes atomi
 
 ## 12. AI-use declaration
 
-**AI assistance:** Claude and ChatGPT supported transaction explanations, SQL demonstration examples, troubleshooting and documentation drafting. The outcome descriptions use the saved MySQL Workbench evidence; in particular, screenshot 28 records a lock wait timeout followed by a **separate retry**, rather than an uninterrupted query. The student remains responsible for explaining the sequence and verifying the SQL scripts and results.
+**AI assistance:** Claude and ChatGPT supported transaction explanations, SQL demonstration examples, troubleshooting and documentation drafting. The outcome descriptions use the saved MySQL Workbench evidence; in particular, screenshot 28 records a lock wait timeout followed by a **separate retry**, rather than an uninterrupted query. I remain responsible for explaining the sequence and verifying the SQL scripts and results.
 
 **References:** [MySQL 8.0 — InnoDB Transaction Model](https://dev.mysql.com/doc/refman/8.0/en/innodb-transaction-model.html); [MySQL 8.0 — Locking Reads](https://dev.mysql.com/doc/refman/8.0/en/innodb-locking-reads.html).
