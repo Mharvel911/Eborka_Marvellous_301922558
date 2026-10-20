@@ -150,8 +150,6 @@ An illustrative unnormalised record might combine customer email, account number
 4. Run the invalid `account_type` insert from Section 4.3 in this disposable test environment and confirm that MySQL rejects it with Error 3819.
 5. Open [`Eborka_Marvellous_301922558_bank_model.mwb`](Eborka_Marvellous_301922558_bank_model.mwb) in MySQL Workbench to inspect the saved model, or review [`Eborka_Marvellous_301922558_er_diagram.md`](Eborka_Marvellous_301922558_er_diagram.md) for the text-based ER representation.
 
-> **Important:** `Eborka_Marvellous_301922558_schema.sql` contains `DROP TABLE IF EXISTS` statements and recreates the tables. Do **not** rerun it against your populated assignment database without a backup: it would remove existing test data and later portfolio results.
-
 ## 7. Evidence index
 
 | File | Evidence provided |
