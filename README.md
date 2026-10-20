@@ -3,7 +3,7 @@
 **Student:** Eborka Marvellous  
 **Student ID:** 301922558  
 **Student email:** m.eborka2558@miva.edu.ng  
-**Repository:** https://github.com/eborkamarvelous-jpg/advanced-database-portfolio
+**Repository:** https://github.com/Mharvel911/advanced-database-portfolio.git
 
 **Academic session:** 2026/2027 (First Semester)  
 **Assessment:** Individual Practical Database Portfolio, Miva Open University  
