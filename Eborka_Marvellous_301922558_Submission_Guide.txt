@@ -1,0 +1,58 @@
+MIT 8103 - ADVANCED DATABASE SYSTEMS
+INDIVIDUAL PRACTICAL DATABASE PORTFOLIO
+
+STUDENT DETAILS
+Surname: Eborka
+First name: Marvellous
+Student ID: 301922558
+Student email: m.eborka2558@miva.edu.ng
+Academic session: 2026/2027 (First Semester)
+Institution: Miva Open University
+
+SUBMISSION PACKAGE
+Folder name: Eborka_Marvellous_301922558
+ZIP file: Eborka_Marvellous_301922558_Portfolio.zip
+GitHub: https://github.com/eborkamarvelous-jpg/advanced-database-portfolio
+Case study: Eborka Trust Bank (fictional retail banking system)
+
+FOLDER CONTENTS
+1. Eborka_Marvellous_301922558_Portfolio1_DatabaseDesign
+   MySQL relational schema, ER diagram, normalisation and constraint evidence.
+2. Eborka_Marvellous_301922558_Portfolio2_QueryOptimisation
+   Query scripts, seed data, indexing, execution plans and results.
+3. Eborka_Marvellous_301922558_Portfolio3_TransactionsConcurrency
+   Transactions, rollback, isolation and concurrency screenshots.
+4. Eborka_Marvellous_301922558_Portfolio4_NoSQL
+   MongoDB Atlas activity documents, indexes, filtering, aggregation and tests.
+5. Eborka_Marvellous_301922558_Portfolio5_DistributedCloud
+   Atlas deployment, replica-set topology, majority read/write evidence and
+   a proposed (not deployed) sharding design.
+
+OTHER CONTENTS
+Eborka_Marvellous_301922558_README.md : portfolio overview and links to all five activities.
+Eborka_Marvellous_301922558_Portfolio_Summary.pdf : three-page LMS technical summary.
+The editable Word summary is available separately, not duplicated inside the ZIP.
+
+IMPORTANT IMPLEMENTATION NOTES
+- The simulated MySQL and MongoDB implementations are separate prototypes.
+- Portfolio 3's initial waiting query timed out; a later retry succeeded.
+- Portfolio 5 has a three-member MongoDB Atlas replica set; sharding and
+  forced failover were not tested. Unexecuted MySQL/Docker starter material
+  is excluded from this submission copy.
+- Evidence screenshots are captured practical outputs, not invented results.
+- Claude and ChatGPT were used as learning and documentation aids; see the
+  individual portfolio READMEs and the final summary for the AI-use declaration.
+
+HOW TO REVIEW
+Open Eborka_Marvellous_301922558_README.md, then follow the five portfolio links.
+Each portfolio contains a Eborka_Marvellous_301922558_screenshot subfolder holding its screenshots.
+Each file and subfolder is named with the Eborka_Marvellous_301922558_ prefix.
+The renamed ZIP is specifically for the upload form. Do not overwrite the
+existing GitHub files with these renamed copies: their original names preserve
+GitHub links and commit history.
+
+ORIGINALITY AND VERIFICATION
+This package is a case-study portfolio with screenshots from the practical exercises.
+No external similarity-checker result is available; a score below 20% cannot be certified.
+Verify your personal reflection and AI-use disclosure, and confirm GitHub assessor access.
+Upload the ZIP in the zipped-folder field and the separate TXT in the ReadME field.
