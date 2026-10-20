@@ -247,8 +247,6 @@ The benchmark figures are specific to this database and run. In particular, the 
 5. For Test B, inspect the indexes after Test A. Run its first account-statement `EXPLAIN ANALYZE` **before** creating `idx_txn_account_created`. Create the composite index, update statistics and rerun the query.
 6. Compare the actual plan nodes, row counts and timings. If an index already exists, check the database state rather than rerunning its `CREATE INDEX` statement unchanged; a fresh baseline is needed to reproduce a valid before/after comparison.
 
-> **Note:** Running `Eborka_Marvellous_301922558_seed_data.sql` again against an already seeded database can cause duplicate unique values and changes to the intended dataset. The saved timing screenshots are evidence from the original run, not a promise that every new environment will have the same timings.
-
 ## 9. Evidence index
 
 | File | Evidence provided |
