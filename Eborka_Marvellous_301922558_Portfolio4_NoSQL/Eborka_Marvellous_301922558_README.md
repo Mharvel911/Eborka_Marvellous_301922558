@@ -235,8 +235,6 @@ See [`Eborka_Marvellous_301922558_suitability.md`](Eborka_Marvellous_301922558_s
 4. Confirm that `TEST 01`–`TEST 07` execute and that the final message says `VALIDATION PASSED`.
 5. Execute the manual `findOne`, `getIndexes`, `find`, `countDocuments` and `aggregate` queries in sections 2–8 to reproduce the supporting outputs. Use the seven numbered screenshots as examples of the expected form of evidence.
 
-> **Caution — destructive demo reset:** The script calls `events.drop()` and recreates data in **`eborka_trust_bank.activity_events`** each time. Only use it on a disposable sample collection; running it again will delete existing documents from that collection. The demonstration does not modify the separate MySQL schema.
-
 ## 11. Evidence and file index
 
 | File | Evidence / purpose |
