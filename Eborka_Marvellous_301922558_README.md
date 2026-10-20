@@ -38,9 +38,3 @@ Open each linked portfolio README. All referenced SQL/JavaScript scripts and dia
 ## Academic integrity and AI declaration
 
 Claude and OpenAI ChatGPT assisted with database concepts, examples of SQL/JavaScript code, troubleshooting, explanations and drafting documentation, as disclosed in the individual portfolio READMEs and the LMS summary. Reported measurements and outputs are tied to saved screenshots rather than claimed AI executions. This is an educational prototype, not a production banking service.
-
-## Assessment submission
-
-The separate **2–3 page LMS portfolio summary** references this GitHub repository and its evidence. This repository should remain private but must be accessible to the assessor before submission. Progressive commit history and access permissions must be confirmed in GitHub directly; they cannot be established from a downloaded ZIP archive.
-
-
